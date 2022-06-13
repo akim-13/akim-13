@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akim-13&theme=github-dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,5 +25,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/06/2022 18:46:30 UTC
+ Last Updated on 13/06/2022 20:33:33 UTC
 <!--END_SECTION:waka-->
