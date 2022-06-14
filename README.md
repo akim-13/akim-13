@@ -2,6 +2,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akim-13&theme=github-dark)](https://git.io/streak-stats)
 
+<!--This is temporary, testing how it works.-->
+<p align="left">
+    <img alt="Programming languages" src="https://wakatime.com/share/@akim13/50c0a458-bfaf-45ba-b46b-df1959378a37.svg" width="500px" height="300px">
+    <br>
+</p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2055%20mins-blue)
 
