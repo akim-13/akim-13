@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akim-13&theme=github-dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,19 +11,24 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      11 mins             ████████████████░░░░░░░░░   64.87% 
+zsh                      5 mins              ███████░░░░░░░░░░░░░░░░░░   28.54% 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.58% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   17 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nvim                     11 mins             ████████████████░░░░░░░░░   64.87% 
+zsh                      5 mins              ███████░░░░░░░░░░░░░░░░░░   28.54% 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.58%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    17 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/06/2022 20:34:42 UTC
+ Last Updated on 14/06/2022 16:54:33 UTC
 <!--END_SECTION:waka-->
