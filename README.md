@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=7000&color=168BC6&center=true&vCenter=true&width=500&lines=I+use+Arch+btw)](https://git.io/typing-svg)
-
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akim-13&theme=github-dark)](https://git.io/streak-stats) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=akim-13&show_icons=true&theme=github_dark&border_color=2d9d42&title_color=2d9d42)](https://github.com/anuraghazra/github-readme-stats)|
-|--------------- | --------------- |
-| ![time](https://wakatime.com/share/@akim13/67613551-8a72-4b8c-9131-5e0d260425e2.svg)| ![lang](https://wakatime.com/share/@akim13/50c0a458-bfaf-45ba-b46b-df1959378a37.svg)  |
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=7000&color=168BC6&center=true&vCenter=true&width=500&lines=I+use+Arch+btw)](https://git.io/typing-svg) -->
+# My Stats
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=akim-13&show_icons=true&theme=github_dark&border_color=2d9d42&title_color=2d9d42&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=akim-13&theme=github-dark)](https://git.io/streak-stats) |
+| -- | -- |
+| ![Coding time bar chart](https://wakatime.com/share/@akim13/e1d3f835-c70a-4cab-adb5-935f7f468931.svg) <p align="center"> *Coding time over the last 30 days* </p> |![Languages pie chart](https://wakatime.com/share/@akim13/50c0a458-bfaf-45ba-b46b-df1959378a37.svg) <p align="center"> *Programming languages all time* </p> |
 
 
 <!--This is temporary, testing how it works.
