@@ -20,16 +20,16 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 17 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AI-oxford-course         1 hr 17 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
